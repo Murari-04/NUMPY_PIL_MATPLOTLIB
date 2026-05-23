@@ -1,1 +1,1 @@
-# NUMPY_PIL_MATPLOTLIB
+This project demonstrates the use of **NumPy**, **PIL (Pillow)**, and **Matplotlib** in Python for array operations, image processing, and data visualization. It provides basic examples to understand how these libraries work together for handling images and creating visual outputs efficiently.# NUMPY_PIL_MATPLOTLIB
